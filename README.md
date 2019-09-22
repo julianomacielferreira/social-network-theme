@@ -18,7 +18,7 @@ I coded this website template only for the purpose of learning. **All the credit
 
 - Sass: [https://sass-lang.com/](https://sass-lang.com/)
 
-- Webpack: [https://webpack.js.org/]
+- Webpack: [https://webpack.js.org/](https://webpack.js.org/)
 
 ## How to Install and Run
 
