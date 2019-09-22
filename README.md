@@ -4,6 +4,8 @@ This is a website template based on the tutorial [Social Network Theme With Sass
 
 The icons are from the Font Awesome&trade; [https://fontawesome.com/](https://fontawesome.com/) library.
 
+The images were downloaded from Pexels™ [https://www.pexels.com/](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators.
+
 # Disclaimer
 
 I coded this website template only for the purpose of learning. **All the credits go to Traversy Media&trade;.**
@@ -46,6 +48,8 @@ agreement](https://github.com/julianomacielferreira/social-network-theme/blob/ma
 - Traversy Media&trade;: [https://www.traversymedia.com/](https://www.traversymedia.com/)
 
 - Font Awesome&trade;: [https://fontawesome.com/](https://fontawesome.com/)
+
+- Pexels&trade;: [https://www.pexels.com/](https://www.pexels.com/)
 
 - Sass&trade;: [https://sass-lang.com/](https://sass-lang.com/)
 

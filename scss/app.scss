@@ -2,6 +2,24 @@
 @import "./variables";
 @import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
 @import "./resets";
-@import "./backgrounds";
+@import "./background";
 @import "./navbar";
 
+// Landing
+.landing {
+  position: relative;
+  background: url("./../assets/img/adult-blur-books-842567.jpg") no-repeat center center/cover;
+  height: 100vh;
+
+  &-inner {
+    color: #ffffff;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+}
