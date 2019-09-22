@@ -8,12 +8,3 @@ $success-color: #28a745;
 // Sizes
 $max-width: 1100px;
 
-// Backgrounds
-.bg {
-  &-primary {
-    @include set-background($primary-color);
-  }
-  &-dark {
-    @include set-background($dark-color);
-  }
-}
