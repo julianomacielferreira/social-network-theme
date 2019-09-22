@@ -16,9 +16,9 @@ I coded this website template only for the purpose of learning. **All the credit
 
 - Font Awesome&trade;: [https://fontawesome.com/](https://fontawesome.com/)
 
-- Sass: [https://sass-lang.com/](https://sass-lang.com/)
+- Sass&trade;: [https://sass-lang.com/](https://sass-lang.com/)
 
-- Webpack: [https://webpack.js.org/](https://webpack.js.org/)
+- Webpack&trade;: [https://webpack.js.org/](https://webpack.js.org/)
 
 ## How to Install and Run
 
