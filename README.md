@@ -8,6 +8,8 @@ The icons are from the Font Awesome&trade; [https://fontawesome.com/](https://fo
 
 I coded this website template only for the purpose of learning. **All the credits go to Traversy Media&trade;.**
 
+# References
+
 - Traversy Media&trade; youtube channel: [https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 
 - Traversy Media&trade;: [https://www.traversymedia.com/](https://www.traversymedia.com/)
