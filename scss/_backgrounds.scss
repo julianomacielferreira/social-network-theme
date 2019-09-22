@@ -8,11 +8,16 @@
   }
   &-light {
     @include set-background($light-color);
+    border: #cccccc 1px solid;
   }
   &-danger {
     @include set-background($danger-color);
   }
   &-success {
     @include set-background($success-color);
+  }
+  &-white {
+    @include set-background(#ffffff);
+    border: #cccccc 1px solid;
   }
 }
