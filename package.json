@@ -1,0 +1,36 @@
+{
+  "name": "social-network-theme",
+  "version": "1.0.0",
+  "description": "A website template based on the tutorial \"Social Network Theme With Sass\" from Traversy Media™.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianomacielferreira/social-network-theme.git"
+  },
+  "author": "Juliano Maciel Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianomacielferreira/social-network-theme/issues"
+  },
+  "homepage": "https://github.com/julianomacielferreira/social-network-theme#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "autoprefixer": "^9.6.1",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.2.0",
+    "extract-loader": "^3.1.0",
+    "file-loader": "^4.2.0",
+    "node-sass": "^4.12.0",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^8.0.0",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.1"
+  }
+}
