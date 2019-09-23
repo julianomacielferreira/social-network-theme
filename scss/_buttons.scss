@@ -1,0 +1,50 @@
+// Buttons styles
+.btn {
+  display: inline-block;
+  background: $light-color;
+  color: #333333;
+  padding: 0.4rem 1.3rem;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-right: 0.5rem;
+  outline: none;
+  transition: all 0.2s ease-in;
+
+  &.btn-primary {
+    @include set-background($primary-color);
+
+    &:hover {
+      background: lighten($primary-color, 5%);
+    }
+  }
+
+  &.btn-dark {
+    @include set-background($dark-color);
+
+    &:hover {
+      background: lighten($dark-color, 5%);
+    }
+  }
+
+  &.btn-danger {
+    @include set-background($danger-color);
+
+    &:hover {
+      background: lighten($danger-color, 5%);
+    }
+  }
+
+  &.btn-success {
+    @include set-background($success-color);
+
+    &:hover {
+      background: lighten($success-color, 5%);
+    }
+  }
+
+  &:hover {
+    background: lighten($dark-color, 20%);
+    color: #ffffff;
+  }
+}
