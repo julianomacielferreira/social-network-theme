@@ -36,6 +36,14 @@ $ npm install
 $ npm run start
 ```
 
+**Or to generate all the bundle:**
+
+```bash
+$ npm run build
+```
+
+The files will be created in the folder **/dist**.
+
 **2. And then access [http://localhost:8080/](http://localhost:8080/) on your browser (it's setup to open automatically).**
 
 # License
