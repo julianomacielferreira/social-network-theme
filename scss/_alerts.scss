@@ -1,0 +1,28 @@
+// Alerts and notification styles
+.alert {
+  padding: 0.8rem;
+  margin: 1rem;
+  opacity: 0.9;
+  background: $light-color;
+  color: #333333;
+
+  &.alert-primary {
+    @include set-background($primary-color);
+  }
+
+  &.alert-dark {
+    @include set-background($dark-color);
+  }
+
+  &.alert-light {
+    @include set-background($light-color);
+  }
+
+  &.alert-danger {
+    @include set-background($danger-color);
+  }
+
+  &.alert-success {
+    @include set-background($success-color);
+  }
+}
