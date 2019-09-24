@@ -10,7 +10,7 @@ The images were downloaded from Pexels™ [https://www.pexels.com/](https://www.
 
 I coded this website template only for the purpose of learning and enhancing my skillset. 
 
-**All the credits go to Traversy Media&trade;.**
+**Access [Traversy Media&trade;](https://www.traversymedia.com/) to learn too.**
 
 # Become a Patron of Traversy Media&trade;
 
