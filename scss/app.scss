@@ -7,6 +7,7 @@
 @import "./background";
 @import "./buttons";
 @import "./navbar";
+@import "./form";
 
 // Landing
 .landing {
@@ -24,5 +25,30 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+  }
+}
+
+// Margins & Padding
+$space-amounts: (1, 2, 3, 4, 5);
+
+@each $space in $space-amounts {
+  // All around margin
+  .m-#{$space} {
+    margin: #{$space}rem;
+  }
+
+  // Vertical margin
+  .my-#{$space} {
+    margin: #{$space}rem 0;
+  }
+
+  // All around padding
+  .p-#{$space} {
+    padding: #{$space}rem;
+  }
+
+  // Vertical padding
+  .py-#{$space} {
+    padding: #{$space}rem 0;
   }
 }

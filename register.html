@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/js/all.js"></script>
+    <link rel="stylesheet" href="bundle.css">
+    <link href="favicon.ico" rel="icon" type="image/x-icon" />
+    <title>Welcome to DevConnector</title>
+</head>
+
+<body>
+    <nav class="navbar bg-dark">
+        <h1>
+            <a href="dashboard.html">
+                <i class="fas fa-code"></i> DevConnector
+            </a>
+        </h1>
+        <ul>
+            <li>
+                <a href="profile.html">Developers</a>
+            </li>
+
+            <li>
+                <a href="register.html">Register</a>
+            </li>
+
+            <li>
+                <a href="login.html">Login</a>
+            </li>
+        </ul>
+    </nav>
+    <section class="container">
+        <h1 class="large text-primary">
+            Sign up
+        </h1>
+        <p class="lead">
+            <i class="fas fa-user"></i> Create your account
+        </p>
+        <form action="dashboard.html" class="form">
+            <div class="form-group">
+                <input type="text" placeholder="Name">
+            </div>
+            <div class="form-group">
+                <input type="email" placeholder="Email" value="">
+                <small class="form-text">
+                    This site uses gravatar, so if you want a profile image, use a gravatar email
+                </small>
+            </div>
+            <div class="form-group">
+                <input type="password" placeholder="Password" minlength="6" value="">
+            </div>
+            <div class="form-group">
+                <input type="password" placeholder="Confirm password" minlength="6" value="">
+            </div>
+            <input type="submit" class="btn btn-primary" value="Register">
+        </form>
+        <p class="my-1">
+            Already have an account ? <a href="login.html">Sign In</a>
+        </p>
+    </section>
+
+    <script src="bundle.js" async></script>
+</body>
+
+</html>
