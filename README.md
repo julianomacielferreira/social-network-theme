@@ -80,3 +80,4 @@ agreement](https://github.com/julianomacielferreira/social-network-theme/blob/ma
 ![](assets/screenshots/1.png)
 ![](assets/screenshots/2.png)
 ![](assets/screenshots/3.png)
+![](assets/screenshots/4.png)
