@@ -12,7 +12,7 @@ I coded this website template only for the purpose of learning and enhancing my 
 
 **All the credits go to Traversy Media&trade;.**
 
-# Become a Patron of Traversy Media
+# Become a Patron of Traversy Media&trade;
 
 Brad Traversy spends most of his time making free educational videos on YouTube to share with the world. 
 

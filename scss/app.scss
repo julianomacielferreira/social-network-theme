@@ -2,13 +2,22 @@
 @import "./mixins";
 @import "./variables";
 @import "./resets";
-@import "./container";
 @import "./texts";
 @import "./background";
 @import "./buttons";
 @import "./navbar";
 @import "./form";
 @import "./alerts";
+
+// Container styles
+.container {
+  max-width: $max-width;
+  margin: auto;
+  overflow: hidden;
+  padding: 0 2rem;
+  margin-top: 6rem;
+  margin-bottom: 3rem;
+}
 
 // Landing
 .landing {
@@ -29,27 +38,18 @@
   }
 }
 
-// Margins & Padding
-$space-amounts: (1, 2, 3, 4, 5);
+//  Profiles page
+.profile {
+  display: grid;
+  grid-template-columns: 2fr 4fr 2fr;
+  grid-gap: 2rem;
+  align-items: center;
+  padding: 1rem;
+  line-height: 1.8;
+  margin-bottom: 1rem;
+}
 
-@each $space in $space-amounts {
-  // All around margin
-  .m-#{$space} {
-    margin: #{$space}rem;
-  }
-
-  // Vertical margin
-  .my-#{$space} {
-    margin: #{$space}rem 0;
-  }
-
-  // All around padding
-  .p-#{$space} {
-    padding: #{$space}rem;
-  }
-
-  // Vertical padding
-  .py-#{$space} {
-    padding: #{$space}rem 0;
-  }
+// Round images
+.round-img {
+  border-radius: 50%;
 }
