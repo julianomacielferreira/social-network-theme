@@ -8,7 +8,7 @@ The images were downloaded from Pexels™ [https://www.pexels.com/](https://www.
 
 # Disclaimer
 
-I coded this website template only for the purpose of learning. **All the credits go to Traversy Media&trade;.**
+I coded this website template only for the purpose of learning and enhancing my skillset. **All the credits go to Traversy Media&trade;.**
 
 # Become a Patron of Traversy Media
 
