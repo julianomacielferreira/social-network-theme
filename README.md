@@ -74,3 +74,9 @@ agreement](https://github.com/julianomacielferreira/social-network-theme/blob/ma
 - Sass&trade;: [https://sass-lang.com/](https://sass-lang.com/)
 
 - Webpack&trade;: [https://webpack.js.org/](https://webpack.js.org/)
+
+# Screenshots
+
+![](assets/screenshots/1.png)
+![](assets/screenshots/2.png)
+![](assets/screenshots/3.png)
