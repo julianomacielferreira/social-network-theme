@@ -10,6 +10,14 @@ The images were downloaded from Pexels™ [https://www.pexels.com/](https://www.
 
 I coded this website template only for the purpose of learning. **All the credits go to Traversy Media&trade;.**
 
+# Become a Patron of Traversy Media
+
+Brad Traversy spends most of his time making free educational videos on YouTube to share with the world. 
+
+Join his Patreon to show your support and gratitude. Even $1 per month means the world.
+
+[https://www.patreon.com/traversymedia](https://www.patreon.com/traversymedia)
+
 ## Install Dependencies
 
 **1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager):**
