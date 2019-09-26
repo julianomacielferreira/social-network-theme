@@ -63,11 +63,6 @@ Join his Patreon to show your support and gratitude. Even $1 per month means the
 
 [https://www.patreon.com/traversymedia](https://www.patreon.com/traversymedia)
 
-# License
-
-Please see the [license
-agreement](https://github.com/julianomacielferreira/social-network-theme/blob/master/LICENSE).
-
 # References
 
 - Traversy Media&trade; youtube channel: [https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
@@ -81,3 +76,7 @@ agreement](https://github.com/julianomacielferreira/social-network-theme/blob/ma
 - Sass&trade;: [https://sass-lang.com/](https://sass-lang.com/)
 
 - Webpack&trade;: [https://webpack.js.org/](https://webpack.js.org/)
+
+# License
+
+Please see the [license agreement](https://github.com/julianomacielferreira/social-network-theme/blob/master/LICENSE).
