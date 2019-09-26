@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/js/all.js"></script>
+    <link rel="stylesheet" href="bundle.css">
+    <link href="favicon.ico" rel="icon" type="image/x-icon" />
+    <title>Welcome to DevConnector</title>
+</head>
+
+<body>
+    <nav class="navbar bg-dark">
+        <h1>
+            <a href="dashboard.html">
+                <i class="fas fa-code"></i> DevConnector
+            </a>
+        </h1>
+        <ul>
+            <li>
+                <a href="profiles.html">Developers</a>
+            </li>
+
+            <li>
+                <a href="posts.html">Posts</a>
+            </li>
+
+            <li>
+                <a href="dashboard.html">
+                    <i class="fas fa-user"></i>
+                    <span class="hide-sm">Dashboard</span>
+                </a>
+            </li>
+
+            <li>
+                <a href="login.html">
+                    <i class="fas fa-sign-out-alt"></i>
+                    <span class="hide-sm">Logou</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <section class="container">
+        <h1 class="large text-primary">
+            Dashboard
+        </h1>
+        <p class="lead">
+            <i class="fas fa-user"></i> Welcome Ricardo Pascal (Pasqualito)
+        </p>
+        <div class="dash-button">
+            <a href="create-profile.html" class="btn">
+                <i class="fas fa-user-circle text-primary"></i> Edit Profile
+            </a>
+            <a href="create-profile.html" class="btn">
+                <i class="fas fa-user-tie text-primary"></i> Add Experience
+            </a>
+            <a href="create-profile.html" class="btn">
+                <i class="fas fa-user-graduate text-primary"></i> Add Education
+            </a>
+        </div>
+
+        <!-- Experiences -->
+        <h2 class="my-2">
+            Experience Credentials
+        </h2>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Company</th>
+                    <th class="hide-sm">Title</th>
+                    <th class="hide-sm">Years</th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>Canonical</td>
+                    <td class="hide-sm">Senior Ubuntu Developer</td>
+                    <td class="hide-sm">Oct 2011 - Current</td>
+                    <td>
+                        <button class="btn btn-danger">
+                            Delete
+                        </button>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Red Hat</td>
+                    <td class="hide-sm">Senior Developer</td>
+                    <td class="hide-sm">Oct 2005 - Dec 2010</td>
+                    <td>
+                        <button class="btn btn-danger">
+                            Delete
+                        </button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- Educations -->
+        <h2 class="my-2">
+            Education Credentials
+        </h2>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>School</th>
+                    <th class="hide-sm">Degree</th>
+                    <th class="hide-sm">Field</th>
+                    <th class="hide-sm">Years</th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>UFSC - Federal University of Santa Catarina</td>
+                    <td class="hide-sm">Bachelor</td>
+                    <td class="hide-sm">Physics</td>
+                    <td class="hide-sm">Mar 2010 - Current</td>
+                    <td>
+                        <button class="btn btn-danger">
+                            Delete
+                        </button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="my-2">
+            <button class="btn btn-danger">
+                <i class="fas fa-user-minus"></i> Delete My Account
+            </button>
+        </div>
+    </section>
+    <script src="bundle.js" async></script>
+</body>
+
+</html>
