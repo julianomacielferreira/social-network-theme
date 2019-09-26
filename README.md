@@ -48,6 +48,9 @@ The files will be created in the folder **/dist**.
 ![](assets/screenshots/2.png)
 ![](assets/screenshots/3.png)
 ![](assets/screenshots/4.png)
+![](assets/screenshots/5.png)
+![](assets/screenshots/6.png)
+![](assets/screenshots/7.png)
 
 # Become a Patron of Traversy Media&trade;
 

@@ -26,3 +26,29 @@
     @include set-background($success-color);
   }
 }
+
+// Badges
+.badge {
+  font-size: 0.8rem;
+  padding: 0.1rem;
+  text-align: center;
+  margin: 0.3rem;
+  background: $light-color;
+  color: #333333;
+
+  &.badge-primary {
+    @include set-background($primary-color);
+  }
+
+  &.badge-dark {
+    @include set-background($dark-color);
+  }
+
+  &.badge-danger {
+    @include set-background($danger-color);
+  }
+
+  &.badge-success {
+    @include set-background($success-color);
+  }
+}
