@@ -1,6 +1,7 @@
 const autoprefixer = require('autoprefixer');
 
 module.exports = [{
+    mode: 'production',
     entry: ['./scss/app.scss', './js/app.js'],
     output: {
         filename: 'bundle.js',
