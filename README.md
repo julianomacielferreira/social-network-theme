@@ -6,20 +6,6 @@ The icons are from the Font Awesome&trade; [https://fontawesome.com/](https://fo
 
 The images were downloaded from Pexels™ [https://www.pexels.com/](https://www.pexels.com/) - The best free stock photos & videos shared by talented creators.
 
-# Disclaimer
-
-I coded this website template only for the purpose of learning and enhancing my skillset. 
-
-**Access [Traversy Media&trade;](https://www.traversymedia.com/) to learn too.**
-
-# Become a Patron of Traversy Media&trade;
-
-Brad Traversy spends most of his time making free educational videos on YouTube to share with the world. 
-
-Join his Patreon to show your support and gratitude. Even $1 per month means the world.
-
-[https://www.patreon.com/traversymedia](https://www.patreon.com/traversymedia)
-
 ## Install Dependencies
 
 **1. Check if you have a recent version of [Node.js](https://nodejs.org/) (which comes bundled with [npm](https://www.npmjs.com/), a JavaScript package manager):**
@@ -56,6 +42,27 @@ The files will be created in the folder **/dist**.
 
 **2. And then access [http://localhost:8080/](http://localhost:8080/) on your browser (it's setup to open automatically).**
 
+# Screenshots
+
+![](assets/screenshots/1.png)
+![](assets/screenshots/2.png)
+![](assets/screenshots/3.png)
+![](assets/screenshots/4.png)
+
+# Disclaimer
+
+I coded this website template only for the purpose of learning and enhancing my skillset. 
+
+**Access [Traversy Media&trade;](https://www.traversymedia.com/) to learn too.**
+
+# Become a Patron of Traversy Media&trade;
+
+Brad Traversy spends most of his time making free educational videos on YouTube to share with the world. 
+
+Join his Patreon to show your support and gratitude. Even $1 per month means the world.
+
+[https://www.patreon.com/traversymedia](https://www.patreon.com/traversymedia)
+
 # License
 
 Please see the [license
@@ -74,10 +81,3 @@ agreement](https://github.com/julianomacielferreira/social-network-theme/blob/ma
 - Sass&trade;: [https://sass-lang.com/](https://sass-lang.com/)
 
 - Webpack&trade;: [https://webpack.js.org/](https://webpack.js.org/)
-
-# Screenshots
-
-![](assets/screenshots/1.png)
-![](assets/screenshots/2.png)
-![](assets/screenshots/3.png)
-![](assets/screenshots/4.png)
