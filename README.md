@@ -45,19 +45,30 @@ The files will be created in the folder **/dist**.
 # Screenshots
 
 ![](assets/screenshots/1.png)
+![](assets/screenshots/15.png)
 ![](assets/screenshots/2.png)
+![](assets/screenshots/16.png)
 ![](assets/screenshots/3.png)
+![](assets/screenshots/17.png)
 ![](assets/screenshots/4.png)
+![](assets/screenshots/18.png)
 ![](assets/screenshots/5.png)
 ![](assets/screenshots/6.png)
 ![](assets/screenshots/7.png)
+![](assets/screenshots/19.png)
 ![](assets/screenshots/8.png)
+![](assets/screenshots/20.png)
 ![](assets/screenshots/9.png)
 ![](assets/screenshots/10.png)
+![](assets/screenshots/21.png)
 ![](assets/screenshots/11.png)
+![](assets/screenshots/22.png)
 ![](assets/screenshots/12.png)
+![](assets/screenshots/23.png)
 ![](assets/screenshots/13.png)
 ![](assets/screenshots/14.png)
+![](assets/screenshots/24.png)
+![](assets/screenshots/25.png)
 
 # Become a Patron of Traversy Media&trade;
 
